@@ -4,7 +4,7 @@ The output resolution of the VGA signal is 640x480. The text mode grid is 80x60.
 
 ## Block diagram
 
-![block diagram](https://image.noelshack.com/fichiers/2018/01/7/1515340955-68747470733a2f2f696d6167652e6e6f656c736861636b2e636f6d2f66696368696572732f323031382f30312f372f313531353332363934392d6367726f6d2d667067612e706e67.png)
+![block diagram](https://github.com/dylangageot/VGATextMode/raw/master/Images/block_diagram.png)
 
 ## Example code output
 
