@@ -8,4 +8,4 @@ The output resolution of the VGA signal is 640x480. The text mode grid is 80x60.
 
 ## Example code output
 
-![example code output](https://image.noelshack.com/fichiers/2018/01/7/1515334407-outout.png)
+![example code](https://image.noelshack.com/fichiers/2018/01/7/1515334407-outout.png)
